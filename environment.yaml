@@ -1,0 +1,10 @@
+name: bitWatcher
+dependencies:
+  - numpy
+  - pandas
+  - statsmodels
+  - scipy
+  - scikit-learn 
+  - keras
+  - matplotlib
+  - plotly
